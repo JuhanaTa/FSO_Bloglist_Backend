@@ -1,0 +1,11 @@
+PUT  http://localhost:3001/api/blogs/5f2d35e9816bed1d680f477a/comments
+content-type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Imp1aHEiLCJpZCI6IjVmMDQ1YTBhYjcwNTYzNTY3YzEyOWMwNiIsImlhdCI6MTU5Njc5NzY4OX0.Ew1fR1-CHCsx2FISrEHQkx6nGoJgDghQT2eg9UpvlRI
+
+{
+    "title": " is my first blog with frontend",
+    "author": "juhq",
+    "url": "Testing with other account",
+    "likes": "1",
+    "comments": "this is my other comment"
+}
