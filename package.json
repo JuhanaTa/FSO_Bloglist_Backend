@@ -1,6 +1,7 @@
 {
   "name": "blogilista",
   "version": "1.0.0",
+  "homepage": "./",
   "description": "blogilista osa 4",
   "main": "index.js",
   "scripts": {
